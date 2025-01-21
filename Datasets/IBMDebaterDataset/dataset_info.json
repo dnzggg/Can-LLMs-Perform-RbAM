@@ -1,0 +1,20 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "arg1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "arg2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "support": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
